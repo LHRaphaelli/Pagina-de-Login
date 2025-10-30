@@ -4,8 +4,8 @@
 
 Este projeto tem como objetivo o desenvolvimento de um relógio digital moderno, preciso e visualmente marcante, combinando funcionalidade e design atraente.
 
-### Defaukt Dark
-![Página de login Default Dark](https://github.com/user-attachments/assets/3f1831bc-2b3e-4e4e-8cf2-4b0ccd5f6609)
+### Default Dark
+![Página de login Default Dark](https://github.com/user-attachments/assets/2239bc7b-7b97-4cdf-a1d4-2a5d16fadd60)
 
 ### Neon Dark
 ![Página de login Neon Dark](https://github.com/user-attachments/assets/87ab5f42-f99b-46ee-8c22-e084f9486688)
