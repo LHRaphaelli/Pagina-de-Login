@@ -2,7 +2,7 @@
 
 ### Descrição
 
-Página de login moderna com alternância entre modo escuro e claro. No modo escuro, apresenta visual futurista com efeitos neon em ciano sobre fundo preto. No modo claro, utiliza tons quentes de laranja sobre fundo bege claro. A interface possui campos para usuário e senha, link de recuperação de senha e opção de registro. Os elementos ganham vida ao passar o mouse, ativando efeitos neon vibrantes em ambos os temas. O tema pode ser alternado através de um botão toggle no canto superior direito, proporcionando uma experiência visual adaptável às preferências do usuário.
+Página de login moderna com alternância entre modo escuro e claro. No modo escuro, apresenta visual futurista com efeitos neon em ciano sobre fundo preto. No modo claro, utiliza tons quentes de laranja sobre fundo branco. A interface possui campos para usuário e senha, link de recuperação de senha e opção de registro. Os elementos ganham vida ao passar o mouse, ativando efeitos neon vibrantes em ambos os temas. O tema pode ser alternado através de um botão toggle no canto superior direito, proporcionando uma experiência visual adaptável às preferências do usuário.
 
 ### Default Dark
 ![Página de login Default Dark](https://github.com/user-attachments/assets/2239bc7b-7b97-4cdf-a1d4-2a5d16fadd60)
