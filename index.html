@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Página de Login</title>
+  </head>
+
+  <body>
+    <!-- Botão de alternância de tema -->
+    <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema">
+      <i class="bx bxs-moon" id="themeIcon"></i>
+    </button>
+
+    <main class="container">
+      <form>
+        <h2>Login</h2>
+
+        <div class="input-box">
+          <span class="icon"><i class="bx bxs-user"></i></span>
+          <input type="text" placeholder="Usuário" required />
+        </div>
+
+        <div class="input-box">
+          <span class="icon"><i class="bx bxs-lock-alt"></i></span>
+          <input type="password" placeholder="Senha" required />
+        </div>
+
+        <div class="forgot-pass">
+          <a href="#">Esqueceu a senha?</a>
+        </div>
+
+        <button type="submit">Entrar</button>
+
+        <div class="register-link">
+          <p>Não tem uma conta? <a href="#">Registre-se</a></p>
+        </div>
+      </form>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
