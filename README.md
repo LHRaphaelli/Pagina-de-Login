@@ -10,7 +10,7 @@ Este projeto tem como objetivo o desenvolvimento de um relógio digital moderno,
 ### Neon Dark
 ![Página de login Neon Dark](https://github.com/user-attachments/assets/87ab5f42-f99b-46ee-8c22-e084f9486688)
 
-### Defaukt Light
+### Default Light
 ![Página de login Default Light](https://github.com/user-attachments/assets/888b731d-7aa5-4f51-9b52-acbc1c36d95c)
 
 ### Neon Light
