@@ -224,6 +224,7 @@ body.light-mode .container:hover .input-box .icon {
 
 .forgot-pass a:hover {
   text-decoration: underline;
+  color: #0ef;
 }
 
 /* ====== Light Mode ====== */
@@ -259,7 +260,7 @@ button[type="submit"] {
 
 /* ====== Light Mode ====== */
 body.light-mode button[type="submit"] {
-  background: #ddd;
+  background: #999;
   color: #333;
 }
 
